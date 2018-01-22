@@ -14,8 +14,10 @@ body{
 }
 h1{
   color: white;
-
 }
-span{
-  color: white;
+#strip{
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  color: black;
 }
